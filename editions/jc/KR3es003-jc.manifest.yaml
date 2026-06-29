@@ -1,0 +1,1781 @@
+canonical_identifier: bkk:krp/KR3es003/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3es003/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中國醫籍考
+  identifiers:
+    krp: KR3es003
+  tags:
+    kr-categories: KR3es
+  source:
+    repository: tls-texts
+    path: data/tls/KR3es003.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3es003_001-jc.yaml, hash: 'sha256:8ef6a76633ea37438f368ee007d466a575602cbf8672b94496fbc728a509fd45'}
+  - {seq: 2, filename: KR3es003_002-jc.yaml, hash: 'sha256:4ea3065be22d4420305e0d137e169a197b798f647c85dc7b416a4b69a531e055'}
+  - {seq: 3, filename: KR3es003_003-jc.yaml, hash: 'sha256:7c3e8ca09fff7a416c9def008c987c0353ad8dfea098bcaefe4b6af2fa91f49d'}
+  - {seq: 4, filename: KR3es003_004-jc.yaml, hash: 'sha256:e90a2c46925d07adb47d9a0585c3f9bcf15a458fa0bca4af2da33c4df78304b4'}
+  - {seq: 5, filename: KR3es003_005-jc.yaml, hash: 'sha256:86bccfdb8b20833638edef2f10b72c01d363a349bee35fde829557d5a4268687'}
+  - {seq: 6, filename: KR3es003_006-jc.yaml, hash: 'sha256:2b7f7818ab9e3dffadd7a4903bd75c9386e9d15445a901436f956e668a08d6f3'}
+  - {seq: 7, filename: KR3es003_007-jc.yaml, hash: 'sha256:eaceba4fd4f4f995e8db01e6ef831a89b86fa2a3d677c9824174727ccb7d2fee'}
+  - {seq: 8, filename: KR3es003_008-jc.yaml, hash: 'sha256:13c0bf5ebdc1dd714189926a5b9abd78a092fd999491ac9c70f84679d1fe1dff'}
+  - {seq: 9, filename: KR3es003_009-jc.yaml, hash: 'sha256:66cf353d5ee2ee010703db1a1e0ca124b4ca2150370e19c1be3e6a3f96993753'}
+  - {seq: 10, filename: KR3es003_010-jc.yaml, hash: 'sha256:e59775641f817050d254de8ae886ed4ea96a1a8f8dba362c4d88dad9f329ec2f'}
+  - {seq: 11, filename: KR3es003_011-jc.yaml, hash: 'sha256:e6c3dd23f0d8fe57981bed071de16e4f8b41133458483eb0d669579632b793ea'}
+  - {seq: 12, filename: KR3es003_012-jc.yaml, hash: 'sha256:aa52b1fda298e3275d56db5d7d39e6d8de39b98aa684c822e5b844aeb7e65168'}
+  - {seq: 13, filename: KR3es003_013-jc.yaml, hash: 'sha256:d46aa8b7c2e78893f6b3077cd35995f635700e537218c7a96dfc31f46575f974'}
+  - {seq: 14, filename: KR3es003_014-jc.yaml, hash: 'sha256:df147425624cf01f9f1fcef5175ff54471398f1369932e7e4a0a7070829a61f0'}
+  - {seq: 15, filename: KR3es003_015-jc.yaml, hash: 'sha256:4da2030ba65a3b291775d5a99fe3a34c463c2585c6d7a89a0984e3f86b993d72'}
+  - {seq: 16, filename: KR3es003_016-jc.yaml, hash: 'sha256:07ec45d4bba3e138e941d80ce16bf8bd94158bb5f939b105781e730966cb5243'}
+  - {seq: 17, filename: KR3es003_017-jc.yaml, hash: 'sha256:c295d7a57d46fd9cfa0361893b738b5af38873b3a01f1da1765ee9ad484fb55b'}
+  - {seq: 18, filename: KR3es003_018-jc.yaml, hash: 'sha256:43e08746a1d330272a5f900ea43af03ccf8629830bbf11cae5250db70f3fd9da'}
+  - {seq: 19, filename: KR3es003_019-jc.yaml, hash: 'sha256:26bbc66ee1fed3b1032c4aa528f30129b3747b47ff8c42d7223f73bb5d028bb2'}
+  - {seq: 20, filename: KR3es003_020-jc.yaml, hash: 'sha256:14600b1806dab7d8a4ffb0eec8d354b98b8334f54ca938659e5872c36ee10862'}
+  - {seq: 21, filename: KR3es003_021-jc.yaml, hash: 'sha256:ed280bcaa478864033612fddb22feed3ff198a2009f526f91ac72360591afc49'}
+  - {seq: 22, filename: KR3es003_022-jc.yaml, hash: 'sha256:a687d536004133fe4c674ce0605cb8be74eb2e24ce46bcdc4d38b3dce9ca6834'}
+  - {seq: 23, filename: KR3es003_023-jc.yaml, hash: 'sha256:dfffd8221dff8bfa2f9d3d8db13bccf7029ae47f22878218240a40c2cc75ff52'}
+  - {seq: 24, filename: KR3es003_024-jc.yaml, hash: 'sha256:a2784ed9a582d65a4445cbd361ddc8d3c310f41f7fb9c3a779f8afedc2c519ef'}
+  - {seq: 25, filename: KR3es003_025-jc.yaml, hash: 'sha256:0e430c600479b6fd015deed71a1bae3821d4ee61b68dc28037ef9d57732080d0'}
+  - {seq: 26, filename: KR3es003_026-jc.yaml, hash: 'sha256:9b76f6206919329f1be94bfc0523de49bfdeed0c973f5b7c18905d51d6ba1011'}
+  - {seq: 27, filename: KR3es003_027-jc.yaml, hash: 'sha256:efbcc65f4ed2aca00a5072c60e7aa5b81337c1bdd0eae14cde837796a76e99b7'}
+  - {seq: 28, filename: KR3es003_028-jc.yaml, hash: 'sha256:ba343c293d00bf017ea4a9f1a75037ebfa1edb6f32edf6a11c0471ca7e1ff526'}
+  - {seq: 29, filename: KR3es003_029-jc.yaml, hash: 'sha256:f3f53064ae5739bcd0612830e091c051bda4c51dba0c4876f2cc739c90f4a789'}
+  - {seq: 30, filename: KR3es003_030-jc.yaml, hash: 'sha256:a22d8322f6c2472127e7eceebf00196d1e03544e37bf76040183acf0f58efaa5'}
+  - {seq: 31, filename: KR3es003_031-jc.yaml, hash: 'sha256:c2c4b5434c5281f2da20cd85778b9190acba4bb7c68b298483de13d152798c10'}
+  - {seq: 32, filename: KR3es003_032-jc.yaml, hash: 'sha256:f7dff663f350b99dee3c05af11d45679a820c539c521fc1541be18ccc17e7a1d'}
+  - {seq: 33, filename: KR3es003_033-jc.yaml, hash: 'sha256:c1ba6e4eae53ba993c1aa4e16d76066e34b88820386c4b26693e3d9e78626673'}
+  - {seq: 34, filename: KR3es003_034-jc.yaml, hash: 'sha256:3087a91013b2f7c49c888ca7ed4ddcc905415e36c358a186e2f5ae3b1c3cea4b'}
+  - {seq: 35, filename: KR3es003_035-jc.yaml, hash: 'sha256:fe49299fe2b543333171b24d92a81380600e75dc62a4ba0066f1ae32d0bc47db'}
+  - {seq: 36, filename: KR3es003_036-jc.yaml, hash: 'sha256:ee4e3652c4c6b5d3e601b0a4003768fb436e0cf17c8ce0764523d075c2d5d542'}
+  - {seq: 37, filename: KR3es003_037-jc.yaml, hash: 'sha256:b54660118ccf4ba0558dd0ae139e8184d713d8e9773a93c1b11ef1378e3a155d'}
+  - {seq: 38, filename: KR3es003_038-jc.yaml, hash: 'sha256:7b67e6e162bce873977e3d841ed8a9dc4292f2f9e232173f2d6e6535f0cf450d'}
+  - {seq: 39, filename: KR3es003_039-jc.yaml, hash: 'sha256:15f8b4195d7f54c7f6d3c211d4cdf84cc786f67592d3cc3228c1396bedd77082'}
+  - {seq: 40, filename: KR3es003_040-jc.yaml, hash: 'sha256:b939f1471f74d4c4495483549ceb9722f666c8793c3f0b652668352147d08824'}
+  - {seq: 41, filename: KR3es003_041-jc.yaml, hash: 'sha256:d33fc03d475e4b89b3831ffbb19cb6b31127d0b8ba5ad4bc36dc96f0e648daf6'}
+  - {seq: 42, filename: KR3es003_042-jc.yaml, hash: 'sha256:eb27d867537891ebc2864fe21d1fbf4cbc8d709de5f9a148be03beee3f9b632c'}
+  - {seq: 43, filename: KR3es003_043-jc.yaml, hash: 'sha256:5fac4630989a2a1965bdf3d5c7d2ae662369e2f5aad9cb50cfc70b0208df8577'}
+  - {seq: 44, filename: KR3es003_044-jc.yaml, hash: 'sha256:2efecbd9da21b0542a5dd7a58804f32bd6672a219db0e6fdc4b33c5e184759ad'}
+  - {seq: 45, filename: KR3es003_045-jc.yaml, hash: 'sha256:cdfba58f85f8c2084fd83262b93f64d165c94b86307355e47f47f6b2462dc9bd'}
+  - {seq: 46, filename: KR3es003_046-jc.yaml, hash: 'sha256:5aa939c14e4739abb67c306805b6f3972a8020e63abab14fa22db9164963222e'}
+  - {seq: 47, filename: KR3es003_047-jc.yaml, hash: 'sha256:d1198fb10fdd50056dc35aacda8e6d47f756c7f96f80235f00bd406399e97dff'}
+  - {seq: 48, filename: KR3es003_048-jc.yaml, hash: 'sha256:04593ed05f5429d6f90347befafc395ea0571532fd23405fdafc4232db034cfb'}
+  - {seq: 49, filename: KR3es003_049-jc.yaml, hash: 'sha256:295ff16e80e04f2fac1102736f21e77d26012be62ec0b862bdd3cbb08b0520eb'}
+  - {seq: 50, filename: KR3es003_050-jc.yaml, hash: 'sha256:8aff652400d8c0a66ae74a36fa200d49340be028d2d1b2638bebbea82f0b812c'}
+  - {seq: 51, filename: KR3es003_051-jc.yaml, hash: 'sha256:0926db526cd853325e8e3f610785b44f6a425a877ef464364e560d3a5c9b0170'}
+  - {seq: 52, filename: KR3es003_052-jc.yaml, hash: 'sha256:591407f1392351f169c11ee822838d583e4f78cc27c4bd708f133e1b70fa081b'}
+  - {seq: 53, filename: KR3es003_053-jc.yaml, hash: 'sha256:c0f82351fe612b8d6a3b0cd2966e772287ab0ba2a52f41217eae2aa44abe8220'}
+  - {seq: 54, filename: KR3es003_054-jc.yaml, hash: 'sha256:7f18f0ae7ed7e7c9e2ff93f8c654cd478189cfcf64726e08045ec83efc5fbcd2'}
+  - {seq: 55, filename: KR3es003_055-jc.yaml, hash: 'sha256:6f6a5c72708bd075825de0040cdaa2bba0b5e694b5b2fac36026be622e4114a7'}
+  - {seq: 56, filename: KR3es003_056-jc.yaml, hash: 'sha256:8c8bd85fd3ecafce924ff055ae7debb3c4fc29ce5ad706c3895ea0747d0289c3'}
+  - {seq: 57, filename: KR3es003_057-jc.yaml, hash: 'sha256:431b4a54f4ca0511a6a75ce6bf8e777b36899a270ee6a247d85c52d1ed8d67b0'}
+  - {seq: 58, filename: KR3es003_058-jc.yaml, hash: 'sha256:5cb1d1070f9ed25f60eb8677c3c50ff906b0af9a99c6c21f909716bf24e9af1f'}
+  - {seq: 59, filename: KR3es003_059-jc.yaml, hash: 'sha256:992e1c7d15b36e95ff7969f8ebc09d0f67b67209ccd3ff566a53361ace6e64ae'}
+  - {seq: 60, filename: KR3es003_060-jc.yaml, hash: 'sha256:d751771a7485fa380f3ebc168e8d909d1fa8f2a37b4d2d9bb1dff84d9f9512df'}
+  - {seq: 61, filename: KR3es003_061-jc.yaml, hash: 'sha256:27fefc1c8064e59acc41ef5e7ea2964b26f81208657cb5425474035d1ab4c369'}
+  - {seq: 62, filename: KR3es003_062-jc.yaml, hash: 'sha256:4fec217a274b60dcd3c22b48310ce8def1f64cd010cf46910bd05b92a2d39741'}
+  - {seq: 63, filename: KR3es003_063-jc.yaml, hash: 'sha256:742a4a79e7419b1a03bb23074d2ee85b8d4f62e8c4b17b86aa4919922ee84a3f'}
+  - {seq: 64, filename: KR3es003_064-jc.yaml, hash: 'sha256:255f8861d5a65027c68027a1fa7690b85c9054c7fd500f65e3ab54aa7e12b020'}
+  - {seq: 65, filename: KR3es003_065-jc.yaml, hash: 'sha256:4b9d880dfa2c1db159778506b6f78b0c97207396a29b145eebb71377c8893abd'}
+  - {seq: 66, filename: KR3es003_066-jc.yaml, hash: 'sha256:619a501a943dec150548fb2a0976b266c03085f7bc00963970e2cb0a3714a288'}
+  - {seq: 67, filename: KR3es003_067-jc.yaml, hash: 'sha256:044bdc7591cf4c158f2bd65c7e05eaa4011411f8570421abfa662737115ffc6f'}
+  - {seq: 68, filename: KR3es003_068-jc.yaml, hash: 'sha256:ff6b619e09ac8bce93bf711144106c77944808f741ff1c7011e88b007d603e55'}
+  - {seq: 69, filename: KR3es003_069-jc.yaml, hash: 'sha256:f2b3d9f472c3a50d87ac12d9879fa25d3d6516f0771c6d06c48dc1d80ef0e761'}
+  - {seq: 70, filename: KR3es003_070-jc.yaml, hash: 'sha256:8f6055665e621b212a827ce8660e889b7b24619e34e54c1f4387fce61d2940a4'}
+  - {seq: 71, filename: KR3es003_071-jc.yaml, hash: 'sha256:9f2661d6759a89339680a02878a2f629b1a74d6f6eace8cfdde831e6f376c363'}
+  - {seq: 72, filename: KR3es003_072-jc.yaml, hash: 'sha256:52fe6d5bcf84bd576eb437063bfc019c6d58995aaeaed484bd6921d3e3446f8b'}
+  - {seq: 73, filename: KR3es003_073-jc.yaml, hash: 'sha256:eee3c84f574c8a37b6d5381401065d0e47a1e96ea4150c7d101af2a2ada2fcba'}
+  - {seq: 74, filename: KR3es003_074-jc.yaml, hash: 'sha256:650c3c35861f7d300becf0c78d4f4af7aabbd052c99c5c8921b00a39f4def367'}
+  - {seq: 75, filename: KR3es003_075-jc.yaml, hash: 'sha256:0af31e404a23974fc2e656b23c1e1376f0fae1bd6965203401364b16a89ff68f'}
+  - {seq: 76, filename: KR3es003_076-jc.yaml, hash: 'sha256:da3c69ecddad67ba998359885670a03fea75c11a4d365d6a87596409bbf3a426'}
+  - {seq: 77, filename: KR3es003_077-jc.yaml, hash: 'sha256:1ffa2762a984964562b87922150dacce7033fae2da3e29bb7b87c7df620d4ea9'}
+  - {seq: 78, filename: KR3es003_078-jc.yaml, hash: 'sha256:5869fa0816b3c2f20bec23d9a9505ee117724967932e71a0eb57343087135bbe'}
+  - {seq: 79, filename: KR3es003_079-jc.yaml, hash: 'sha256:6ef5cd5e75a19f3b48bfae135731c5839d6abe38d52c03dc1c26f3d97eeb25a6'}
+  - {seq: 80, filename: KR3es003_080-jc.yaml, hash: 'sha256:229c1cedac969104c3008d68685b17a6282e0e8f441e42cd72ec016dd8bf03c7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3es003_001-jc.markers.yaml, hash: 'sha256:ab69da81a7ddb082bca92f1a92fdb72ad8b06dc688db2dae85aebcadf513e14e'}
+  - {seq: 2, role: markers, filename: assets/KR3es003_002-jc.markers.yaml, hash: 'sha256:86b7ae243be600f3d5dcfb0d6a7bfb03600ef828c6578d60311923950b1239a4'}
+  - {seq: 3, role: markers, filename: assets/KR3es003_003-jc.markers.yaml, hash: 'sha256:cbbeca1a9ddf7aa51c2b7d82df41680608216eb85ea33c2af7558e93a57d0ef5'}
+  - {seq: 4, role: markers, filename: assets/KR3es003_004-jc.markers.yaml, hash: 'sha256:ff342124e81c6c5b3e8a383d8b51e2c04eea4815dcaf9a674ea3c1734ec5dfaa'}
+  - {seq: 5, role: markers, filename: assets/KR3es003_005-jc.markers.yaml, hash: 'sha256:3e5e60c160438c0a122d8e9a89e45d9fbd5221203e88f28022b533b87a785a1f'}
+  - {seq: 6, role: markers, filename: assets/KR3es003_006-jc.markers.yaml, hash: 'sha256:ddb10a3cc6364b804048319eeb5bb62dc95ce13522ba748b6521fb4521ed2e79'}
+  - {seq: 7, role: markers, filename: assets/KR3es003_007-jc.markers.yaml, hash: 'sha256:b8617400b85eccb7d22d502b5d6d42a48c98811076fdb96bb0711db4211c3bb3'}
+  - {seq: 8, role: markers, filename: assets/KR3es003_008-jc.markers.yaml, hash: 'sha256:71505caf0be5d5c063baa02ea5cafdacf3a2ac0f91ad6c2163449a3963695f11'}
+  - {seq: 9, role: markers, filename: assets/KR3es003_009-jc.markers.yaml, hash: 'sha256:520055008871981c576d6cf0ed27f85e4363423a4060d577e6ce9462e345953f'}
+  - {seq: 10, role: markers, filename: assets/KR3es003_010-jc.markers.yaml, hash: 'sha256:ab3e0c729e542505641719a6eb0a27e17b59834ef8482d8ccbc9c22e46135f49'}
+  - {seq: 11, role: markers, filename: assets/KR3es003_011-jc.markers.yaml, hash: 'sha256:ca13f29287c8bf1aa87fcd375242985c124b95a76fe41aab3c9e042130394f8e'}
+  - {seq: 12, role: markers, filename: assets/KR3es003_012-jc.markers.yaml, hash: 'sha256:736d0806bc83f607da754fa1279747d49df0cfeb8d29fedaa52705bab6b55e7b'}
+  - {seq: 13, role: markers, filename: assets/KR3es003_013-jc.markers.yaml, hash: 'sha256:89c1e91faf21b17c4aab3724b33eca48da522ee12619618d21572ad5b56b7cdc'}
+  - {seq: 14, role: markers, filename: assets/KR3es003_014-jc.markers.yaml, hash: 'sha256:ed8c33ef8bf29c35e3d2f0a1ad0ac2217040ad0964c55ced7b0010bb047c5484'}
+  - {seq: 15, role: markers, filename: assets/KR3es003_015-jc.markers.yaml, hash: 'sha256:d0c74420a8453ef1eb4ba4490e791487e0f8d08ff09eb8bbaefa8d02e6ba173d'}
+  - {seq: 16, role: markers, filename: assets/KR3es003_016-jc.markers.yaml, hash: 'sha256:9a838b7e981ef1f7ad6673126d7cd396f7da9895b89b6f7ae100b9418457a508'}
+  - {seq: 17, role: markers, filename: assets/KR3es003_017-jc.markers.yaml, hash: 'sha256:5c1f48ffdb8eaff797b4cf91cd37f2dd139ace0ccce50abefb752a1e1b3f49df'}
+  - {seq: 18, role: markers, filename: assets/KR3es003_018-jc.markers.yaml, hash: 'sha256:846091824d78144674acffc30233c710dd534c917052be945e78981c85214a82'}
+  - {seq: 19, role: markers, filename: assets/KR3es003_019-jc.markers.yaml, hash: 'sha256:e8b517fc485a5c1fb2190efae12edec01fca52217bfc320da19f72015f4f41cf'}
+  - {seq: 20, role: markers, filename: assets/KR3es003_020-jc.markers.yaml, hash: 'sha256:694ed40715307f4749de14cdc4e90e901a3176a6d45a6d71c3ba53ed145d2ab9'}
+  - {seq: 21, role: markers, filename: assets/KR3es003_021-jc.markers.yaml, hash: 'sha256:3b6aa10f1c728bc756942f065ebebd7fdc1f46a480497a5a55cb9d88abeac70a'}
+  - {seq: 22, role: markers, filename: assets/KR3es003_022-jc.markers.yaml, hash: 'sha256:71e0eac41e4b00dccc78d4ce34625e50d2dc5803f8e311233daa4cdcad0e05a5'}
+  - {seq: 23, role: markers, filename: assets/KR3es003_023-jc.markers.yaml, hash: 'sha256:5f790e5c7ca8cc32feb8f5474d2fb66553b365ceeecb22939eca73b337bb12a0'}
+  - {seq: 24, role: markers, filename: assets/KR3es003_024-jc.markers.yaml, hash: 'sha256:2f9d88b8393d788492748f23fe1966d0d047da82f07b0b5e3444a48c35cab2a6'}
+  - {seq: 25, role: markers, filename: assets/KR3es003_025-jc.markers.yaml, hash: 'sha256:4254faa2e0fb65e398f31a23ffab39afa6f825424418899e690581fca074f3df'}
+  - {seq: 26, role: markers, filename: assets/KR3es003_026-jc.markers.yaml, hash: 'sha256:233a82ab26ef7846f7c9f0f76c2acb9326931be24eda823225eed4f7bd26c9b9'}
+  - {seq: 27, role: markers, filename: assets/KR3es003_027-jc.markers.yaml, hash: 'sha256:02adb43b3d86277f38a339fd13203ef8feafb8ded80bf526dd59baacda1c9d65'}
+  - {seq: 28, role: markers, filename: assets/KR3es003_028-jc.markers.yaml, hash: 'sha256:db74c264c93f769521194e13ede39dab71f7612baa083aac6af04c985d5a5872'}
+  - {seq: 29, role: markers, filename: assets/KR3es003_029-jc.markers.yaml, hash: 'sha256:798a468c3e88c24dea600e7bfe42a71b52a73b80c6da55a590c43e74dbff2f12'}
+  - {seq: 30, role: markers, filename: assets/KR3es003_030-jc.markers.yaml, hash: 'sha256:07fa3c1bdd24d9719023dde83bc234107014b0fafb211c0d289f9def20663a51'}
+  - {seq: 31, role: markers, filename: assets/KR3es003_031-jc.markers.yaml, hash: 'sha256:f167e6753ab5904d03997833277b5a5bd15a71619ef9378f74f616c77e5c2a9e'}
+  - {seq: 32, role: markers, filename: assets/KR3es003_032-jc.markers.yaml, hash: 'sha256:85d2a4d4e0f185e2a87906cc0b438e6ec1d90080ab2e2574d791a3da78538752'}
+  - {seq: 33, role: markers, filename: assets/KR3es003_033-jc.markers.yaml, hash: 'sha256:2a9286d1728de1756239a8039272bb9dba86c2573601c52693a7d8246258de33'}
+  - {seq: 34, role: markers, filename: assets/KR3es003_034-jc.markers.yaml, hash: 'sha256:da605d3d9aa2a78e412764a9485a8d3278d38b66011a214fef30a12ebccbbd02'}
+  - {seq: 35, role: markers, filename: assets/KR3es003_035-jc.markers.yaml, hash: 'sha256:65e293f75a592ef5d9bea519ceb33b119403457ab54aac68f77889d6c3c680f9'}
+  - {seq: 36, role: markers, filename: assets/KR3es003_036-jc.markers.yaml, hash: 'sha256:9648abe1f4e50a0f2e21b5c35bcd241ec395b218a7df14e1e2d8e5468a41263f'}
+  - {seq: 37, role: markers, filename: assets/KR3es003_037-jc.markers.yaml, hash: 'sha256:25a9a44735c8604a027ceb94c1fde9fcefe411f0ec9d54667df7e095db8654f8'}
+  - {seq: 38, role: markers, filename: assets/KR3es003_038-jc.markers.yaml, hash: 'sha256:cbc3421620a5a08b01f939a3a259cb968abcf099328e2e9e478be2bf38f52956'}
+  - {seq: 39, role: markers, filename: assets/KR3es003_039-jc.markers.yaml, hash: 'sha256:659cb88453809f3ad0947e548746593cad7d877575eeccf269e0fa358a5ec62a'}
+  - {seq: 40, role: markers, filename: assets/KR3es003_040-jc.markers.yaml, hash: 'sha256:a305ec8d001e9cbcbce235cdb767c5b3ae1fe44cad46b29fb895d8105d909b9c'}
+  - {seq: 41, role: markers, filename: assets/KR3es003_041-jc.markers.yaml, hash: 'sha256:7e2d050a7afebe71239785ba292142180cdf6ef0062b9b51c0b663cec82a843e'}
+  - {seq: 42, role: markers, filename: assets/KR3es003_042-jc.markers.yaml, hash: 'sha256:43353227db0154f3213fca1a8d05cc39ed582051d9c73b3c7fd2f170319f39f7'}
+  - {seq: 43, role: markers, filename: assets/KR3es003_043-jc.markers.yaml, hash: 'sha256:45008d3bee826a3203bb28084d264f689226af9ca99ce131b77d7ede92e6106f'}
+  - {seq: 44, role: markers, filename: assets/KR3es003_044-jc.markers.yaml, hash: 'sha256:0381424c0a9545fa7553619d4fd7de0f582d6e682ab20d3d69c76c5db4b59fd9'}
+  - {seq: 45, role: markers, filename: assets/KR3es003_045-jc.markers.yaml, hash: 'sha256:4145406b8f5febe290345f314e4378ec670b9ee5026cdc50b30051b4c3a34440'}
+  - {seq: 46, role: markers, filename: assets/KR3es003_046-jc.markers.yaml, hash: 'sha256:c93ea10e73a6b3734b4ee868169e66f644369b7ef4583ef045bf924c037174e1'}
+  - {seq: 47, role: markers, filename: assets/KR3es003_047-jc.markers.yaml, hash: 'sha256:7a98985073181f03932d88640644af2ee30349136f0944ba4b6cb7c644613afd'}
+  - {seq: 48, role: markers, filename: assets/KR3es003_048-jc.markers.yaml, hash: 'sha256:9d8a86763c54e11d4c75378972a5332eeead39258f0d980afe22c0bb402f8ff4'}
+  - {seq: 49, role: markers, filename: assets/KR3es003_049-jc.markers.yaml, hash: 'sha256:54e2429acf0504b10cc228f7c7b9735d5e3cd1790e86556f0be747478e43ff40'}
+  - {seq: 50, role: markers, filename: assets/KR3es003_050-jc.markers.yaml, hash: 'sha256:e232f38d6a334a8ff1b0bf8a54ab705ae611a1a920ab5ddb4a2d4264e90ff95a'}
+  - {seq: 51, role: markers, filename: assets/KR3es003_051-jc.markers.yaml, hash: 'sha256:4b7572bd2b9f0271f186992c95ca7c516d8844a36dd1d75dd5a81302f40f3713'}
+  - {seq: 52, role: markers, filename: assets/KR3es003_052-jc.markers.yaml, hash: 'sha256:b3f7b1f7939e5c2584a6beed56f5c4bf305919e9f46c0bfc32fd4e84b8d0f592'}
+  - {seq: 53, role: markers, filename: assets/KR3es003_053-jc.markers.yaml, hash: 'sha256:619f632874cae53e4489fa7ccec2ba4528970b9fe477296edfa1336fab859405'}
+  - {seq: 54, role: markers, filename: assets/KR3es003_054-jc.markers.yaml, hash: 'sha256:f67d7954dbe711d8f1df38be197c6741d7a54c6877d5a3f3c5ca21df539c2453'}
+  - {seq: 55, role: markers, filename: assets/KR3es003_055-jc.markers.yaml, hash: 'sha256:10d2dfcde8c341a3b90932812fb0a94c8e8553e36ad591b30ae507e666027c52'}
+  - {seq: 56, role: markers, filename: assets/KR3es003_056-jc.markers.yaml, hash: 'sha256:5f4b2398058cd23be78cb30858138c99a1fe4cd54034477caf9b5423076845d9'}
+  - {seq: 57, role: markers, filename: assets/KR3es003_057-jc.markers.yaml, hash: 'sha256:68bd58f6b3fee07080b8b063efa0b1191e896e901ba02436e33e640e75676d29'}
+  - {seq: 58, role: markers, filename: assets/KR3es003_058-jc.markers.yaml, hash: 'sha256:2b2e1d852088c93b3c7753b72e9621e92f71ab0a7d6e46db5cfb7eea6e8b995d'}
+  - {seq: 59, role: markers, filename: assets/KR3es003_059-jc.markers.yaml, hash: 'sha256:bc103e859a362829d02bcfdf642655f340864d5421f3fe9a4efeb94e5bf74970'}
+  - {seq: 60, role: markers, filename: assets/KR3es003_060-jc.markers.yaml, hash: 'sha256:e0ac8dd3e2ad3df450558733fef320d93b854ac087bfdbf147d4fa834000f01f'}
+  - {seq: 61, role: markers, filename: assets/KR3es003_061-jc.markers.yaml, hash: 'sha256:7597058b3267228b7727f9bdc653f9dcc942c576edd80cbe8d54ee26da07c830'}
+  - {seq: 62, role: markers, filename: assets/KR3es003_062-jc.markers.yaml, hash: 'sha256:18bac9ba4f33bb548e091e2468c92c107bb5325e31ec4b642d7157125eb81476'}
+  - {seq: 63, role: markers, filename: assets/KR3es003_063-jc.markers.yaml, hash: 'sha256:cdd3ead6662de54461d039180f5363b7a1454cfe3933931dca02d02e9b1a8ea3'}
+  - {seq: 64, role: markers, filename: assets/KR3es003_064-jc.markers.yaml, hash: 'sha256:0c2a689512d26cf4f218973af4da2dc0567f33c90cec7b3afe2f0623bfe74b93'}
+  - {seq: 65, role: markers, filename: assets/KR3es003_065-jc.markers.yaml, hash: 'sha256:769b1311f2cd1b48beb060e7b59efadde1e6bb4233db38f1fb9fc385a662f0e8'}
+  - {seq: 66, role: markers, filename: assets/KR3es003_066-jc.markers.yaml, hash: 'sha256:d778dd1f44483a67ba2fdcfabda4aa304217df100af4469134033f6b1cf98960'}
+  - {seq: 67, role: markers, filename: assets/KR3es003_067-jc.markers.yaml, hash: 'sha256:0a64160eaa7ff2be4a90de889e3cca1d837da579fbbc7ff658dcb976d0591268'}
+  - {seq: 68, role: markers, filename: assets/KR3es003_068-jc.markers.yaml, hash: 'sha256:eb13d9ad27044038f7aa1da2a6b066d3bdeb85bb412261f6de478cd25d6464b8'}
+  - {seq: 69, role: markers, filename: assets/KR3es003_069-jc.markers.yaml, hash: 'sha256:9cf926465635b73f7d80e2f7cf420d50878aeb244f2b8c1c00163e6809c6e115'}
+  - {seq: 70, role: markers, filename: assets/KR3es003_070-jc.markers.yaml, hash: 'sha256:a7b80f5e850c7869328866573759050087ae7dab9439432e4b18f61904737cb1'}
+  - {seq: 71, role: markers, filename: assets/KR3es003_071-jc.markers.yaml, hash: 'sha256:e2c4bfb7fb87499a7b973d060b24fae0868968bed94aedf963d1455f21fd9429'}
+  - {seq: 72, role: markers, filename: assets/KR3es003_072-jc.markers.yaml, hash: 'sha256:2ac01ec9619ced228f04594ca7ce70c040564ce239165aa5c695edd7a8993011'}
+  - {seq: 73, role: markers, filename: assets/KR3es003_073-jc.markers.yaml, hash: 'sha256:f2a810083214498dda2b1b55e18d0ed8ffc37d52e0ca7c1aa36742ba6ae7b9d7'}
+  - {seq: 74, role: markers, filename: assets/KR3es003_074-jc.markers.yaml, hash: 'sha256:6daeb2360ad45811cfba5f5ad234f10db1680b857dc84624eb17a785622f2176'}
+  - {seq: 75, role: markers, filename: assets/KR3es003_075-jc.markers.yaml, hash: 'sha256:b9f8547289a3ebd338d6d1323449961408a40aaa5194efadd85a7edacca83b5e'}
+  - {seq: 76, role: markers, filename: assets/KR3es003_076-jc.markers.yaml, hash: 'sha256:8cc5af31acb7a7710b74ab0ccd565d87337b27ebd290f7d6d02f520f335f63d0'}
+  - {seq: 77, role: markers, filename: assets/KR3es003_077-jc.markers.yaml, hash: 'sha256:f6208ad9f9bf0b8f6ad26736003cf6e755b6a04b7e504060d55a319b2656071b'}
+  - {seq: 78, role: markers, filename: assets/KR3es003_078-jc.markers.yaml, hash: 'sha256:d609375f55100dbd9d9207ec2420bb25ccf67a41d8b9af90516b494fd4a8fcfc'}
+  - {seq: 79, role: markers, filename: assets/KR3es003_079-jc.markers.yaml, hash: 'sha256:dd87dbc074649f490ccbc9884140db51867674b070f454abd52414b5e64a81ef'}
+  - {seq: 80, role: markers, filename: assets/KR3es003_080-jc.markers.yaml, hash: 'sha256:861ca66c5f0e95a2c02b452c5599bb6793917a65ab16589230b958f5efa27f42'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3es003_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 6057
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3es003_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 6057
+  label: 醫經一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3es003_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 594
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3es003_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 594
+  label: 醫經二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3es003_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 7373
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3es003_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 7373
+  label: 醫經三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3es003_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 4790
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3es003_jc_004-d5d2
+    span:
+    - body
+    - 2
+    - 4790
+  label: 醫經四
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3es003_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 4824
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3es003_jc_005-d6d2
+    span:
+    - body
+    - 2
+    - 4824
+  label: 醫經五
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3es003_jc_006-d7.h1s1
+    span:
+    - body
+    - 0
+    - 4376
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3es003_jc_006-d7d2
+    span:
+    - body
+    - 2
+    - 4376
+  label: 醫經六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3es003_jc_007-d8.h1s1
+    span:
+    - body
+    - 0
+    - 11940
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3es003_jc_007-d8d2
+    span:
+    - body
+    - 2
+    - 11940
+  label: 醫經七
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3es003_jc_008-d9.h1s1
+    span:
+    - body
+    - 0
+    - 153
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3es003_jc_008-d9d2
+    span:
+    - body
+    - 2
+    - 153
+  label: 醫經八
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3es003_jc_009-d10.h1s1
+    span:
+    - body
+    - 0
+    - 1748
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3es003_jc_009-d10d2
+    span:
+    - body
+    - 2
+    - 1748
+  label: 本草一
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3es003_jc_010-d11.h1s1
+    span:
+    - body
+    - 0
+    - 13710
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3es003_jc_010-d11d2
+    span:
+    - body
+    - 2
+    - 13710
+  label: 本草二
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3es003_jc_011-d12.h1s1
+    span:
+    - body
+    - 0
+    - 8139
+  label: 卷十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3es003_jc_011-d12d2
+    span:
+    - body
+    - 3
+    - 8139
+  label: 本草三
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3es003_jc_012-d13.h1s1
+    span:
+    - body
+    - 0
+    - 4281
+  label: 卷十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3es003_jc_012-d13d2
+    span:
+    - body
+    - 3
+    - 4281
+  label: 本草四
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3es003_jc_013-d14.h1s1
+    span:
+    - body
+    - 0
+    - 7235
+  label: 卷十三
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3es003_jc_013-d14d2
+    span:
+    - body
+    - 3
+    - 7235
+  label: 本草五
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3es003_jc_014-d15.h1s1
+    span:
+    - body
+    - 0
+    - 10581
+  label: 卷十四
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3es003_jc_014-d15d2
+    span:
+    - body
+    - 3
+    - 10581
+  label: 本草六
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3es003_jc_015-d16.h1s1
+    span:
+    - body
+    - 0
+    - 2613
+  label: 卷十五
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3es003_jc_015-d16d2
+    span:
+    - body
+    - 3
+    - 2613
+  label: 食治
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3es003_jc_016-d17.h1s1
+    span:
+    - body
+    - 0
+    - 3696
+  label: 卷十六
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3es003_jc_016-d17d2
+    span:
+    - body
+    - 3
+    - 3696
+  label: 臟象
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3es003_jc_017-d18.h1s1
+    span:
+    - body
+    - 0
+    - 7354
+  label: 卷十七
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3es003_jc_017-d18d2
+    span:
+    - body
+    - 3
+    - 7354
+  label: 診法一
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3es003_jc_018-d19.h1s1
+    span:
+    - body
+    - 0
+    - 5191
+  label: 卷十八
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3es003_jc_018-d19d2
+    span:
+    - body
+    - 3
+    - 5191
+  label: 診法二
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3es003_jc_019-d20.h1s1
+    span:
+    - body
+    - 0
+    - 7291
+  label: 卷十九
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3es003_jc_019-d20d2
+    span:
+    - body
+    - 3
+    - 7291
+  label: 診法三
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3es003_jc_020-d21.h1s1
+    span:
+    - body
+    - 0
+    - 3352
+  label: 卷二十
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3es003_jc_020-d21d2
+    span:
+    - body
+    - 3
+    - 3352
+  label: 診法四
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3es003_jc_021-d22.h1s1
+    span:
+    - body
+    - 0
+    - 10146
+  label: 卷二十一
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3es003_jc_021-d22d2
+    span:
+    - body
+    - 4
+    - 10146
+  label: 明堂經脈一
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3es003_jc_022-d23.h1s1
+    span:
+    - body
+    - 0
+    - 10756
+  label: 卷二十二
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3es003_jc_022-d23d2
+    span:
+    - body
+    - 4
+    - 10756
+  label: 明堂經脈二
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3es003_jc_023-d24.h1s1
+    span:
+    - body
+    - 0
+    - 8081
+  label: 卷二十三
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3es003_jc_023-d24d2
+    span:
+    - body
+    - 4
+    - 8081
+  label: 方論一
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3es003_jc_024-d25.h1s1
+    span:
+    - body
+    - 0
+    - 9827
+  label: 卷二十四
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3es003_jc_024-d25d2
+    span:
+    - body
+    - 4
+    - 9827
+  label: 方論二
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3es003_jc_025-d26.h1s1
+    span:
+    - body
+    - 0
+    - 1422
+  label: 卷二十五
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR3es003_jc_025-d26d2
+    span:
+    - body
+    - 4
+    - 1422
+  label: 方論三
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3es003_jc_026-d27.h1s1
+    span:
+    - body
+    - 0
+    - 12172
+  label: 卷二十六
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR3es003_jc_026-d27d2
+    span:
+    - body
+    - 4
+    - 12172
+  label: 方論四
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3es003_jc_027-d28.h1s1
+    span:
+    - body
+    - 0
+    - 9964
+  label: 卷二十七
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR3es003_jc_027-d28d2
+    span:
+    - body
+    - 4
+    - 9964
+  label: 方論五
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3es003_jc_028-d29.h1s1
+    span:
+    - body
+    - 0
+    - 11463
+  label: 卷二十八
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR3es003_jc_028-d29d2
+    span:
+    - body
+    - 4
+    - 11463
+  label: 方論六
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3es003_jc_029-d30.h1s1
+    span:
+    - body
+    - 0
+    - 5024
+  label: 卷二十九
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR3es003_jc_029-d30d2
+    span:
+    - body
+    - 4
+    - 5024
+  label: 方論七
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3es003_jc_030-d31.h1s1
+    span:
+    - body
+    - 0
+    - 6118
+  label: 卷三十
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR3es003_jc_030-d31d2
+    span:
+    - body
+    - 3
+    - 6118
+  label: 方論八
+  type: section
+  level: 2
+- ref:
+    seq: 31
+    marker_id: KR3es003_jc_031-d32.h1s1
+    span:
+    - body
+    - 0
+    - 3525
+  label: 卷三十一
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR3es003_jc_031-d32d2
+    span:
+    - body
+    - 4
+    - 3525
+  label: 方論九
+  type: section
+  level: 2
+- ref:
+    seq: 32
+    marker_id: KR3es003_jc_032-d33.h1s1
+    span:
+    - body
+    - 0
+    - 6778
+  label: 卷三十二
+  type: section
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR3es003_jc_032-d33d2
+    span:
+    - body
+    - 4
+    - 6778
+  label: 方論十
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3es003_jc_033-d34.h1s1
+    span:
+    - body
+    - 0
+    - 7295
+  label: 卷三十三
+  type: section
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR3es003_jc_033-d34d2
+    span:
+    - body
+    - 4
+    - 7295
+  label: 方論十一
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3es003_jc_034-d35.h1s1
+    span:
+    - body
+    - 0
+    - 7753
+  label: 卷三十四
+  type: section
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR3es003_jc_034-d35d2
+    span:
+    - body
+    - 4
+    - 7753
+  label: 方論十二
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3es003_jc_035-d36.h1s1
+    span:
+    - body
+    - 0
+    - 4492
+  label: 卷三十五
+  type: section
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR3es003_jc_035-d36d2
+    span:
+    - body
+    - 4
+    - 4492
+  label: 方論十三
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR3es003_jc_036-d37.h1s1
+    span:
+    - body
+    - 0
+    - 5690
+  label: 卷三十六
+  type: section
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR3es003_jc_036-d37d2
+    span:
+    - body
+    - 4
+    - 5690
+  label: 方論十四
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3es003_jc_037-d38.h1s1
+    span:
+    - body
+    - 0
+    - 764
+  label: 卷三十七
+  type: section
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR3es003_jc_037-d38d2
+    span:
+    - body
+    - 4
+    - 764
+  label: 方論十五
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3es003_jc_038-d39.h1s1
+    span:
+    - body
+    - 0
+    - 7218
+  label: 卷三十八
+  type: section
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR3es003_jc_038-d39d2
+    span:
+    - body
+    - 4
+    - 7218
+  label: 方論十六
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3es003_jc_039-d40.h1s1
+    span:
+    - body
+    - 0
+    - 3153
+  label: 卷三十九
+  type: section
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR3es003_jc_039-d40d2
+    span:
+    - body
+    - 4
+    - 3153
+  label: 方論十七
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3es003_jc_040-d41.h1s1
+    span:
+    - body
+    - 0
+    - 5321
+  label: 卷四十
+  type: section
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR3es003_jc_040-d41d2
+    span:
+    - body
+    - 3
+    - 5321
+  label: 方論十八
+  type: section
+  level: 2
+- ref:
+    seq: 41
+    marker_id: KR3es003_jc_041-d42.h1s1
+    span:
+    - body
+    - 0
+    - 6983
+  label: 卷四十一
+  type: section
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR3es003_jc_041-d42d2
+    span:
+    - body
+    - 4
+    - 6983
+  label: 方論十九
+  type: section
+  level: 2
+- ref:
+    seq: 42
+    marker_id: KR3es003_jc_042-d43.h1s1
+    span:
+    - body
+    - 0
+    - 10576
+  label: 卷四十二
+  type: section
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR3es003_jc_042-d43d2
+    span:
+    - body
+    - 4
+    - 10576
+  label: 方論二十
+  type: section
+  level: 2
+- ref:
+    seq: 43
+    marker_id: KR3es003_jc_043-d44.h1s1
+    span:
+    - body
+    - 0
+    - 5400
+  label: 卷四十三
+  type: section
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR3es003_jc_043-d44d2
+    span:
+    - body
+    - 4
+    - 5400
+  label: 方論二十一
+  type: section
+  level: 2
+- ref:
+    seq: 44
+    marker_id: KR3es003_jc_044-d45.h1s1
+    span:
+    - body
+    - 0
+    - 3998
+  label: 卷四十四
+  type: section
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR3es003_jc_044-d45d2
+    span:
+    - body
+    - 4
+    - 3998
+  label: 方論二十二
+  type: section
+  level: 2
+- ref:
+    seq: 45
+    marker_id: KR3es003_jc_045-d46.h1s1
+    span:
+    - body
+    - 0
+    - 10508
+  label: 卷四十五
+  type: section
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR3es003_jc_045-d46d2
+    span:
+    - body
+    - 4
+    - 10508
+  label: 方論二十三
+  type: section
+  level: 2
+- ref:
+    seq: 46
+    marker_id: KR3es003_jc_046-d47.h1s1
+    span:
+    - body
+    - 0
+    - 7547
+  label: 卷四十六
+  type: section
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR3es003_jc_046-d47d2
+    span:
+    - body
+    - 4
+    - 7547
+  label: 方論二十四
+  type: section
+  level: 2
+- ref:
+    seq: 47
+    marker_id: KR3es003_jc_047-d48.h1s1
+    span:
+    - body
+    - 0
+    - 6428
+  label: 卷四十七
+  type: section
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR3es003_jc_047-d48d2
+    span:
+    - body
+    - 4
+    - 6428
+  label: 方論二十五
+  type: section
+  level: 2
+- ref:
+    seq: 48
+    marker_id: KR3es003_jc_048-d49.h1s1
+    span:
+    - body
+    - 0
+    - 9292
+  label: 卷四十八
+  type: section
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR3es003_jc_048-d49d2
+    span:
+    - body
+    - 4
+    - 9292
+  label: 方論二十六
+  type: section
+  level: 2
+- ref:
+    seq: 49
+    marker_id: KR3es003_jc_049-d50.h1s1
+    span:
+    - body
+    - 0
+    - 9885
+  label: 卷四十九
+  type: section
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR3es003_jc_049-d50d2
+    span:
+    - body
+    - 4
+    - 9885
+  label: 方論二十七
+  type: section
+  level: 2
+- ref:
+    seq: 50
+    marker_id: KR3es003_jc_050-d51.h1s1
+    span:
+    - body
+    - 0
+    - 9597
+  label: 卷五十
+  type: section
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR3es003_jc_050-d51d2
+    span:
+    - body
+    - 3
+    - 9597
+  label: 方論二十八
+  type: section
+  level: 2
+- ref:
+    seq: 51
+    marker_id: KR3es003_jc_051-d52.h1s1
+    span:
+    - body
+    - 0
+    - 8714
+  label: 卷五十一
+  type: section
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR3es003_jc_051-d52d2
+    span:
+    - body
+    - 4
+    - 8714
+  label: 方論二十九
+  type: section
+  level: 2
+- ref:
+    seq: 52
+    marker_id: KR3es003_jc_052-d53.h1s1
+    span:
+    - body
+    - 0
+    - 6122
+  label: 卷五十二
+  type: section
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR3es003_jc_052-d53d2
+    span:
+    - body
+    - 4
+    - 6122
+  label: 方論三十
+  type: section
+  level: 2
+- ref:
+    seq: 53
+    marker_id: KR3es003_jc_053-d54.h1s1
+    span:
+    - body
+    - 0
+    - 9098
+  label: 卷五十三
+  type: section
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR3es003_jc_053-d54d2
+    span:
+    - body
+    - 4
+    - 9098
+  label: 方論三十一
+  type: section
+  level: 2
+- ref:
+    seq: 54
+    marker_id: KR3es003_jc_054-d55.h1s1
+    span:
+    - body
+    - 0
+    - 4976
+  label: 卷五十四
+  type: section
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR3es003_jc_054-d55d2
+    span:
+    - body
+    - 4
+    - 4976
+  label: 方論三十二
+  type: section
+  level: 2
+- ref:
+    seq: 55
+    marker_id: KR3es003_jc_055-d56.h1s1
+    span:
+    - body
+    - 0
+    - 6975
+  label: 卷五十五
+  type: section
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR3es003_jc_055-d56d2
+    span:
+    - body
+    - 4
+    - 6975
+  label: 方論三十三
+  type: section
+  level: 2
+- ref:
+    seq: 56
+    marker_id: KR3es003_jc_056-d57.h1s1
+    span:
+    - body
+    - 0
+    - 5977
+  label: 卷五十六
+  type: section
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR3es003_jc_056-d57d2
+    span:
+    - body
+    - 4
+    - 5977
+  label: 方論三十四
+  type: section
+  level: 2
+- ref:
+    seq: 57
+    marker_id: KR3es003_jc_057-d58.h1s1
+    span:
+    - body
+    - 0
+    - 6560
+  label: 卷五十七
+  type: section
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR3es003_jc_057-d58d2
+    span:
+    - body
+    - 4
+    - 6560
+  label: 方論三十五
+  type: section
+  level: 2
+- ref:
+    seq: 58
+    marker_id: KR3es003_jc_058-d59.h1s1
+    span:
+    - body
+    - 0
+    - 8282
+  label: 卷五十八
+  type: section
+  level: 1
+- ref:
+    seq: 58
+    marker_id: KR3es003_jc_058-d59d2
+    span:
+    - body
+    - 4
+    - 8282
+  label: 方論三十六
+  type: section
+  level: 2
+- ref:
+    seq: 59
+    marker_id: KR3es003_jc_059-d60.h1s1
+    span:
+    - body
+    - 0
+    - 6094
+  label: 卷五十九
+  type: section
+  level: 1
+- ref:
+    seq: 59
+    marker_id: KR3es003_jc_059-d60d2
+    span:
+    - body
+    - 4
+    - 6094
+  label: 方論三十七
+  type: section
+  level: 2
+- ref:
+    seq: 60
+    marker_id: KR3es003_jc_060-d61.h1s1
+    span:
+    - body
+    - 0
+    - 7003
+  label: 卷六十
+  type: section
+  level: 1
+- ref:
+    seq: 60
+    marker_id: KR3es003_jc_060-d61d2
+    span:
+    - body
+    - 3
+    - 7003
+  label: 方論三十八
+  type: section
+  level: 2
+- ref:
+    seq: 61
+    marker_id: KR3es003_jc_061-d62.h1s1
+    span:
+    - body
+    - 0
+    - 7239
+  label: 卷六十一
+  type: section
+  level: 1
+- ref:
+    seq: 61
+    marker_id: KR3es003_jc_061-d62d2
+    span:
+    - body
+    - 4
+    - 7239
+  label: 方論三十九
+  type: section
+  level: 2
+- ref:
+    seq: 62
+    marker_id: KR3es003_jc_062-d63.h1s1
+    span:
+    - body
+    - 0
+    - 11660
+  label: 卷六十二
+  type: section
+  level: 1
+- ref:
+    seq: 62
+    marker_id: KR3es003_jc_062-d63d2
+    span:
+    - body
+    - 4
+    - 11660
+  label: 方論四十
+  type: section
+  level: 2
+- ref:
+    seq: 63
+    marker_id: KR3es003_jc_063-d64.h1s1
+    span:
+    - body
+    - 0
+    - 8398
+  label: 卷六十三
+  type: section
+  level: 1
+- ref:
+    seq: 63
+    marker_id: KR3es003_jc_063-d64d2
+    span:
+    - body
+    - 4
+    - 8398
+  label: 方論四十一
+  type: section
+  level: 2
+- ref:
+    seq: 64
+    marker_id: KR3es003_jc_064-d65.h1s1
+    span:
+    - body
+    - 0
+    - 7224
+  label: 卷六十四
+  type: section
+  level: 1
+- ref:
+    seq: 64
+    marker_id: KR3es003_jc_064-d65d2
+    span:
+    - body
+    - 4
+    - 7224
+  label: 方論四十二
+  type: section
+  level: 2
+- ref:
+    seq: 65
+    marker_id: KR3es003_jc_065-d66.h1s1
+    span:
+    - body
+    - 0
+    - 8751
+  label: 卷六十五
+  type: section
+  level: 1
+- ref:
+    seq: 65
+    marker_id: KR3es003_jc_065-d66d2
+    span:
+    - body
+    - 4
+    - 8751
+  label: 方論四十三
+  type: section
+  level: 2
+- ref:
+    seq: 66
+    marker_id: KR3es003_jc_066-d67.h1s1
+    span:
+    - body
+    - 0
+    - 9650
+  label: 卷六十六
+  type: section
+  level: 1
+- ref:
+    seq: 66
+    marker_id: KR3es003_jc_066-d67d2
+    span:
+    - body
+    - 4
+    - 9650
+  label: 方論四十四
+  type: section
+  level: 2
+- ref:
+    seq: 67
+    marker_id: KR3es003_jc_067-d68.h1s1
+    span:
+    - body
+    - 0
+    - 315
+  label: 卷六十七
+  type: section
+  level: 1
+- ref:
+    seq: 67
+    marker_id: KR3es003_jc_067-d68d2
+    span:
+    - body
+    - 4
+    - 315
+  label: 方論四十五
+  type: section
+  level: 2
+- ref:
+    seq: 68
+    marker_id: KR3es003_jc_068-d69.h1s1
+    span:
+    - body
+    - 0
+    - 4357
+  label: 卷六十八
+  type: section
+  level: 1
+- ref:
+    seq: 68
+    marker_id: KR3es003_jc_068-d69d2
+    span:
+    - body
+    - 4
+    - 4357
+  label: 方論四十六
+  type: section
+  level: 2
+- ref:
+    seq: 69
+    marker_id: KR3es003_jc_069-d70.h1s1
+    span:
+    - body
+    - 0
+    - 539
+  label: 卷六十九
+  type: section
+  level: 1
+- ref:
+    seq: 69
+    marker_id: KR3es003_jc_069-d70d2
+    span:
+    - body
+    - 4
+    - 539
+  label: 方論四十七
+  type: section
+  level: 2
+- ref:
+    seq: 70
+    marker_id: KR3es003_jc_070-d71.h1s1
+    span:
+    - body
+    - 0
+    - 8099
+  label: 卷七十
+  type: section
+  level: 1
+- ref:
+    seq: 70
+    marker_id: KR3es003_jc_070-d71d2
+    span:
+    - body
+    - 3
+    - 8099
+  label: 方論四十八
+  type: section
+  level: 2
+- ref:
+    seq: 71
+    marker_id: KR3es003_jc_071-d72.h1s1
+    span:
+    - body
+    - 0
+    - 8846
+  label: 卷七十一
+  type: section
+  level: 1
+- ref:
+    seq: 71
+    marker_id: KR3es003_jc_071-d72d2
+    span:
+    - body
+    - 4
+    - 8846
+  label: 方論四十九
+  type: section
+  level: 2
+- ref:
+    seq: 72
+    marker_id: KR3es003_jc_072-d73.h1s1
+    span:
+    - body
+    - 0
+    - 5451
+  label: 卷七十二
+  type: section
+  level: 1
+- ref:
+    seq: 72
+    marker_id: KR3es003_jc_072-d73d2
+    span:
+    - body
+    - 4
+    - 5451
+  label: 方論五十
+  type: section
+  level: 2
+- ref:
+    seq: 73
+    marker_id: KR3es003_jc_073-d74.h1s1
+    span:
+    - body
+    - 0
+    - 6689
+  label: 卷七十三
+  type: section
+  level: 1
+- ref:
+    seq: 73
+    marker_id: KR3es003_jc_073-d74d2
+    span:
+    - body
+    - 4
+    - 6689
+  label: 方論五十一
+  type: section
+  level: 2
+- ref:
+    seq: 74
+    marker_id: KR3es003_jc_074-d75.h1s1
+    span:
+    - body
+    - 0
+    - 8555
+  label: 卷七十四
+  type: section
+  level: 1
+- ref:
+    seq: 74
+    marker_id: KR3es003_jc_074-d75d2
+    span:
+    - body
+    - 4
+    - 8555
+  label: 方論五十二
+  type: section
+  level: 2
+- ref:
+    seq: 75
+    marker_id: KR3es003_jc_075-d76.h1s1
+    span:
+    - body
+    - 0
+    - 10088
+  label: 卷七十五
+  type: section
+  level: 1
+- ref:
+    seq: 75
+    marker_id: KR3es003_jc_075-d76d2
+    span:
+    - body
+    - 4
+    - 10088
+  label: 方論五十三
+  type: section
+  level: 2
+- ref:
+    seq: 76
+    marker_id: KR3es003_jc_076-d77.h1s1
+    span:
+    - body
+    - 0
+    - 9072
+  label: 卷七十六
+  type: section
+  level: 1
+- ref:
+    seq: 76
+    marker_id: KR3es003_jc_076-d77d2
+    span:
+    - body
+    - 4
+    - 9072
+  label: 方論五十四
+  type: section
+  level: 2
+- ref:
+    seq: 77
+    marker_id: KR3es003_jc_077-d78.h1s1
+    span:
+    - body
+    - 0
+    - 9588
+  label: 卷七十七
+  type: section
+  level: 1
+- ref:
+    seq: 77
+    marker_id: KR3es003_jc_077-d78d2
+    span:
+    - body
+    - 4
+    - 9588
+  label: 方論五十五
+  type: section
+  level: 2
+- ref:
+    seq: 78
+    marker_id: KR3es003_jc_078-d79.h1s1
+    span:
+    - body
+    - 0
+    - 9747
+  label: 卷七十八
+  type: section
+  level: 1
+- ref:
+    seq: 78
+    marker_id: KR3es003_jc_078-d79d2
+    span:
+    - body
+    - 4
+    - 9747
+  label: 方論五十六
+  type: section
+  level: 2
+- ref:
+    seq: 79
+    marker_id: KR3es003_jc_079-d80.h1s1
+    span:
+    - body
+    - 0
+    - 1234
+  label: 卷七十九
+  type: section
+  level: 1
+- ref:
+    seq: 79
+    marker_id: KR3es003_jc_079-d80d2
+    span:
+    - body
+    - 4
+    - 1234
+  label: 史傳
+  type: section
+  level: 2
+- ref:
+    seq: 80
+    marker_id: KR3es003_jc_080-d81.h1s1
+    span:
+    - body
+    - 0
+    - 7423
+  label: 卷八十
+  type: section
+  level: 1
+- ref:
+    seq: 80
+    marker_id: KR3es003_jc_080-d81d2
+    span:
+    - body
+    - 3
+    - 7423
+  label: 運氣
+  type: section
+  level: 2
+hash: sha256:1bf02244be1952172c4fd5f9b0f2b6b24ab7677ad53236da2a0f61fea56181f7
